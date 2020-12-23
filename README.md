@@ -6,7 +6,9 @@
 pip install flask
 python app.py
 ```
-## Description
+## Implementation
+
+This project is implemented using Flask, and it is a REST API
 
 
 ## Enjoy!
