@@ -32,4 +32,4 @@ api.add_resource(UserRegister, '/register')
 
 if __name__ == '__main__':
     db.init_app(app)
-    app.run(debug=True)  # important to mention debug=True
+    app.run(PORT=5000,debug=True)  # important to mention debug=True
