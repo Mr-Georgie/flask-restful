@@ -1,4 +1,4 @@
-# A fLASK RESTful API
+# A FLASK RESTful API
 
 ## Installation
 
